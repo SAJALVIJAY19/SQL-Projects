@@ -252,7 +252,9 @@ LIMIT 10;
 Data Analyst | SQL Expert | Business Intelligence Enthusiast
 
 📧 **Email:** [sajalvijay10@gmail.com](mailto:sajalvijay10@gmail.com)
+
 💼 **LinkedIn:** [https://www.linkedin.com/in/sajal-vijay-6823b7295/]
+
 🐙 **GitHub:** [https://github.com/SAJALVIJAY19/]
 
 ---
