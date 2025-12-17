@@ -145,22 +145,6 @@ sql-ecommerce-analysis/
 │   ├── 03_analysis_queries.sql  # Analytical SQL queries
 │   ├── 04_business_insights.sql # Executive insights
 │   └── 05_optimization.sql      # Performance tuning
-│
-├── reports/
-│   ├── revenue_analysis.md
-│   ├── customer_segmentation.md
-│   ├── product_performance.md
-│   ├── operations_dashboard.md
-│   └── executive_summary.md
-│
-├── images/
-│   ├── query_results/
-│   ├── performance_metrics/
-│   └── insights_charts/
-│
-├── README.md
-├── INSIGHTS.md
-└── LICENSE
 ```
 
 ---
