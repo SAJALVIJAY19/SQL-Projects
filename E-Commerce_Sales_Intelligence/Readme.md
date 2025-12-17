@@ -2,7 +2,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-# 📊 SQL E‑Commerce Analytics Project
+# 📊 E-Commerce_Sales_Intelligence
 
 An **end‑to‑end SQL analytics portfolio project** showcasing database design, advanced querying, performance optimization, and executive‑level business insights using real‑world e‑commerce data.
 
